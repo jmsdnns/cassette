@@ -1,0 +1,19 @@
+# Editor files
+*.*~
+./#*
+*.swp
+.vscode/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build
+dist
+*.egg
+*.egg-info
+
+# macOS
+.DS_Store
